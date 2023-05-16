@@ -1,5 +1,7 @@
-
 ## Streamdeck icons
+
+* Use PNG images (72x27)
+* See also: https://developer.elgato.com/documentation/stream-deck/sdk/style-guide/
 
 TODO:
 
